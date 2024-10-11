@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=x9600h&label=Profile%20views&color=0e75b6&style=flat" alt="x9600h" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x9600h" alt="x9600h" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x9600h&theme=onedark" alt="x9600h" /></a> </p>
 
 - 📝 I regularly write articles on: [unknowncheats.me](https://www.unknowncheats.me)
 

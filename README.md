@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x9600h&theme=onedark" alt="x9600h" /></a> </p>
 
-- 📝 I regularly write articles on: [unknowncheats.me](https://www.unknowncheats.me)
+- **I regularly write articles on: [unknowncheats.me](https://www.unknowncheats.me)**
 
 - **Assembler, C, C++, Reverse engineering, Game hacking**
 
